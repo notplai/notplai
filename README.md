@@ -1,5 +1,3 @@
-![Visits](https://img.shields.io/badge/Visits-14305-blue)
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&size=25&pause=1000&color=85F7DB&center=true&vCenter=true&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%82%F0%9F%91%8B;I'm+NotPlai;English%2C+Japanese+%26+Thai+%5E%5E" alt="Typing SVG" />
