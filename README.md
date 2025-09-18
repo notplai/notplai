@@ -9,7 +9,6 @@
 <br/>
 
 <div align="center">
-  🔭 I'm currently working on <a href="https://github.com/dotplai/FlexiDNS"><b>FlexiDNS</b></a> ✨<br/>
   🪴 I'm currently learning <b>Assembly-8086 & Java</b> 🌳<br/>
   ⚡ 🎀 🌩️<br/>
   
