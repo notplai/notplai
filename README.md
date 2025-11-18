@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=notplai.notplai)
 <h3 align="center">A Computer Science Student On the Campus</h3>
 
 <br/>
