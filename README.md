@@ -18,9 +18,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=notplai&show_icons=true&count_private=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notplai&layout=compact&count_private=true&theme=radical" />
   <div align="center">
-    <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    <img align="left" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=whit" />
-    <img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+    <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:me@notplai.net"/>
+    <img align="left" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=whit" href="#"/>
+    <img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" href="#"/>
   </div>
 </div>
 <!-- <div style="margin-top: 15px;" align="center">
