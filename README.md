@@ -25,7 +25,7 @@
     <img align="left" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=whit" href="#"/>
     </a>
     <a href="#">
-      <img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" href="#"/>
+      <img align="left" src="https://img.shields.io/badge/Session-%23000000.svg?style=for-the-badge&logo=Session&logoColor=02f780" href="#"/>
     </a>
     </div>
 </div>
