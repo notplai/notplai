@@ -9,14 +9,12 @@
    🪴 Well, You known, I still currently learning <b>Java</b> language. ☕️
 </p>
 <p align="left">
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC_a2VTc4VPSL-eoI_OSI7ag?style=for-the-badge&logo=YouTube&logoColor=white&color=red&link=https%3A%2F%2Fyoutube.com%2Fc%2Fnotplai%3Fsub_confirmation%3D1">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/notplai?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fnotplai%2F">
-  <br/>
   <img alt="Email Badge" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Ame%40notplai.net">
   <img alt="Discord Badge" src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F709727567120171008">
   <img alt="Patreon Badge" src="https://img.shields.io/badge/-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&link=#">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC_a2VTc4VPSL-eoI_OSI7ag?style=for-the-badge&logo=YouTube&logoColor=white&color=red&link=https%3A%2F%2Fyoutube.com%2Fc%2Fnotplai%3Fsub_confirmation%3D1">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/notplai?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fnotplai%2F">
 </p>
-<br/>
 <hr/>
 <div>
   <h3>🧰 Languages • Frameworks • Tools</h3>
