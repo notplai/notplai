@@ -24,13 +24,13 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/notplai?style=for-the-badge&logo=github&logoColor=white">
 </p>
 <hr/>
-<div>
-  <h3>🧰 Languages • Frameworks • Tools</h3>
-  <img align="center" src="https://skillicons.dev/icons?i=java,kotlin,gradle,go,lua,flutter,python,nodejs,typescript,rust,c,cs">
+<div align="left">
+  <h3>🧰 Languages • Frameworks • Tools  </h3>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,typescript,python,go,rust,c,cs,lua,dart">
   <br/>
-  <img align="center" src="https://skillicons.dev/icons?i=spring,maven,discordjs,docker,django,git,sentry">
+  <img src="https://skillicons.dev/icons?i=spring,maven,gradle,flutter,react,vue,discordjs,dotnet,django">
   <br/>
-  <img align="center" src="https://skillicons.dev/icons?i=pnpm,linux,idea,vscode,androidstudio,gcp,github">
+  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,sentry,gcp,docker,pnpm,git">
 </div>
 <h1></h1>
 <div>
