@@ -1,69 +1,45 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&size=25&pause=1000&color=85F7DB&center=true&vCenter=true&width=435&lines=Hey+there!;I'm+Khao+Plai;Modding+Games+%26+Software;Freshman+on+Campus" alt="Typing SVG" />
-  </a>
-</h1>
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=25&pause=1000&color=00F7BF&random=true&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hey+there!;I'm+a+modder+Games+%26+Software;%F0%9F%9A%A9+Freshman+on+Campus" alt="Typing SVG" />
+</h2>
 
-<h3 align="center">A Computer Science Student on Campus</h3>
-
-<br/>
-
-<div align="center">
-  🪴 Currently learning <b>Java</b> ☕️  
+<p align="left">
+  <b>A Computer Science Student on Campus</b>
   <br/>
-  🧩 Software & Game Modder in the meantime 📝
-</div>
-<br/>
-<div style="margin-top: 15px;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=notplai&show_icons=true&count_private=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notplai&layout=compact&count_private=true&theme=radical" />
-  <div align="center">
+  Hi Guys! I'm Suphakorn Khamwongsa or You can call me just <b>Plai</b>, So I'm software and game modder in the meantime 📝<br/>
+   🪴 Well, You known, I still currently learning <b>Java</b> language. ☕️
+</p>
+<div align="left">
     <a href="mailto:me@notplai.net">
-        <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://youtube.com/@notplai/">
+      <img align="left" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+    </a>
+    <a href="https://discord.com/users/709727567120171008">
+      <img align="left" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
     <a href="#">
-    <img align="left" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=whit" href="#"/>
+      <img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
     </a>
     <a href="#">
-      <img align="left" src="https://img.shields.io/badge/Session-%23000000.svg?style=for-the-badge&logo=Session&logoColor=02f780" href="#"/>
+      <img align="left" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/>
     </a>
-    </div>
 </div>
-<!-- <div style="margin-top: 15px;" align="center">
+<br/>
+<hr/>
+<div>
+  <h3>🧰 Languages • Frameworks • Tools</h3>
+  <br/>
+  <img align="center" src="https://skillicons.dev/icons?i=java,kotlin,gradle,go,lua,flutter,python,nodejs,typescript,rust,c,cs">
+  <br/>
+  <img align="center" src="https://skillicons.dev/icons?i=spring,maven,discordjs,docker,django,git,sentry">
+  <br/>
+  <img align="center" src="https://skillicons.dev/icons?i=pnpm,linux,idea,vscode,androidstudio,gcp,github">
+</div>
+<h1></h1>
+<div>
+  <h3>🚩 GitHub Stats</h3>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=notplai&show_icons=true&count_private=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notplai&layout=compact&count_private=true&theme=radical" />
-  <div align="center">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=whit" />
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </div>
-</div> -->
-
-<!--
-<div align="center">
-  <a href="mailto:me@notplai.net">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
-  </a>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notplai&layout=compact&count_private=true&theme=radical" /> -->
 </div>
-
-<hr/>
-
-<h2 align="center">🛠️ Languages • Frameworks • Tools 🧩</h2>
-
-<br/>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,js,nodejs,py,lua,go,java,kotlin" />
-  </a>
-</div>
-
-<br/>
-<hr/>
--->
