@@ -6,7 +6,7 @@
   <b>A Computer Science Student on Campus</b>
   <br/>
   Hi Guys! I'm Suphakorn Khamwongsa or You can call me just <b>Plai</b>, So I'm software and game modder in the meantime 📝<br/>
-   🪴 Well, You known, I still currently learning <b>Java</b> language. ☕️
+   🪴 Well, You known, I still currently learning <b>Assembly 8086</b> language. ☕️
 </p>
 <p align="left">
   <a href="mailto:me@notplai.net">
